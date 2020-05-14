@@ -1,6 +1,9 @@
 # Overturned
 Unity Game Project
 
+# Source Available on [GitLab](https://gitlab.com/MaxJW/overturned-game)
+Due to the large files, and uploading here would require to use LFS storage, I have instead uploaded the source to GitLab. Sorry GitHub! <3
+
 ## [Download](https://drive.google.com/file/d/1D8IKNFmhR5SeGiypCn8XEseP5wL1bCD9/view?usp=sharing) to play for yourself!
 Will need 7-Zip to decompile the zip file
 
